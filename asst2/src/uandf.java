@@ -1,13 +1,9 @@
-import java.util.HashSet;
-import java.util.Iterator;
 import java.util.ArrayList;
 /**
  * Created by mding on 2017-02-28.
  * UNION FIND DATA STRUCTURE ADT
- *
+ * Uses UFNode class to create trees to store data
  */
-
-/** Matrix positions  rows * cols, gonna have to use tree nodes **/
 
 public class uandf<T> {
     /* Attributes */
